@@ -12,6 +12,6 @@ for (int i = 0; i < arraySecond.Length; i++)
     arraySecond[i] = arrayFirst[randomN];
 }
 
-// Console.Write(" -> " + "[" + string.Join(", ", arraySecond) + "]");
-// Console.ReadKey();
+Console.Write(" -> " + "[" + string.Join(", ", arraySecond) + "]");
+Console.ReadKey();
 
