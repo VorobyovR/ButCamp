@@ -3,8 +3,8 @@ string[] arrayFirst = {"Type", "5", "Badge_ID", "cost", "-25", "timeSheet", ":)"
 int arrayFirstLength = arrayFirst.Length;
 Console.Write("[" + string.Join(", ", arrayFirst) + "]");
 
-// int randomJ = new Random().Next(0, 4);
-// string[] arraySecond = new string[randomJ];
+int randomJ = new Random().Next(0, 4);
+string[] arraySecond = new string[randomJ];
 
 // for (int i = 0; i < arraySecond.Length; i++)
 // {
