@@ -1,0 +1,15 @@
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\bin\Debug\net6.0\HW#1.exe
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\bin\Debug\net6.0\HW#1.deps.json
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\bin\Debug\net6.0\HW#1.runtimeconfig.json
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\bin\Debug\net6.0\HW#1.dll
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\bin\Debug\net6.0\ref\HW#1.dll
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\bin\Debug\net6.0\HW#1.pdb
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\HW#1.csproj.AssemblyReference.cache
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\HW#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\HW#1.AssemblyInfoInputs.cache
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\HW#1.AssemblyInfo.cs
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\HW#1.csproj.CoreCompileInputs.cache
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\HW#1.dll
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\ref\HW#1.dll
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\HW#1.pdb
+D:\02. Education\03. Programming\06. BUTCAMP\00. JobTitle\HW#1\obj\Debug\net6.0\HW#1.genruntimeconfig.cache
